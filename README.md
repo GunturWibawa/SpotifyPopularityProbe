@@ -17,6 +17,17 @@ In today's digital age, deciphering the factors that drive an artist's popularit
 - Spotify and other streaming platforms can use the findings to refine their algorithms and improve the user experience.
 - Music enthusiasts and researchers can better understand the dynamics of music popularity in the digital age.
 
+# **Findings**
+
+- **Followers Count**: As expected, the number of followers an artist has is a primary determinant of their popularity. However, after log transformation, the relationship is more linear, indicating diminishing returns in popularity as followers increase.
+- **Track Metrics**: Average track popularity plays a significant role in determining an artist's overall popularity.
+- **Engagement**: The popularity-to-follower ratio indicates that artists with fewer followers but higher engagement (ratio) can still achieve significant popularity.
+- **Consistency**: Variability in track popularity suggests that artists with consistent track performances tend to have higher overall popularity.
+
+This project offers a comprehensive view of factors influencing an artist's popularity on Spotify, providing insights that could be valuable for artists, music producers, and even Spotify in curating and promoting content.
+
+# **Recommendations based on Findings**
+
 Based on my comprehensive analysis, here are some actionable insights and recommendations for various stakeholders:
 
 1. **For Artists**:
